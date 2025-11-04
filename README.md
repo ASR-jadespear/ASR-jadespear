@@ -1,10 +1,10 @@
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Narrow&weight=600&size=50&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=ASR+Jadespear" alt="Typing SVG" />  </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Narrow&weight=600&size=50&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&color=E30220&width=435&lines=ASR+Jadespear" alt="Typing SVG" />  </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=36BCF7FF&text=CSE%20Undergraduate%20|%20Game%20Developer%20|%20Math%20Enthusiast%20|%20Creative%20Engineer&reversal=false&fontColor=ffffff&fontSize=23.5&rotate=0&fontAlignY=18"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=E30220&text=CSE%20Undergraduate%20|%20Game%20Developer%20|%20Math%20Enthusiast%20|%20Creative%20Engineer&reversal=false&fontColor=ffffff&fontSize=23.5&rotate=0&fontAlignY=18"/> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=35&duration=2500&pause=800&color=51CBF7&center=true&vCenter=true&width=536&lines=%F0%9F%8C%BF%7C+Rhyming+with+Reasons+%7C+%F0%9F%A7%A9;%F0%9F%96%A5%EF%B8%8F+%7C+Coding+with+Cogitation+%7C+%E2%9C%A8;%E2%9A%99%EF%B8%8F+%7C+Debugging+Own+Destiny+%7C+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=35&duration=2500&pause=800&color=E30220&center=true&vCenter=true&width=536&lines=%E2%9D%A4%EF%B8%8F%7C+Rhyming+with+Reasons+%7C+%F0%9F%8C%B9;%E2%9A%99%EF%B8%8F%7C+Coding+with+Cogitation+%7C+%E2%9C%A8;%F0%9F%8E%AF%7C+Debugging+Own+Destiny+%7C+%E2%AD%90%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abu Sayeem Rafi
