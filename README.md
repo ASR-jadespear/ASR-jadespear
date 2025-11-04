@@ -1,10 +1,10 @@
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Narrow&weight=600&size=50&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&color=E30220&width=435&lines=ASR+Jadespear" alt="Typing SVG" />  </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Narrow&weight=600&size=50&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&color=FF7300&width=435&lines=ASR+Jadespear" alt="Typing SVG" />  </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=E30220&text=CSE%20Undergraduate%20|%20Game%20Developer%20|%20Math%20Enthusiast%20|%20Creative%20Engineer&reversal=false&fontColor=ffffff&fontSize=23.5&rotate=0&fontAlignY=18"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FE5800&text=CSE%20Undergraduate%20|%20Game%20Developer%20|%20Math%20Enthusiast%20|%20Creative%20Engineer&reversal=false&fontColor=ffffff&fontSize=23.5&rotate=0&fontAlignY=18"/> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=35&duration=2500&pause=800&color=E30220&center=true&vCenter=true&width=536&lines=%E2%9D%A4%EF%B8%8F%7C+Rhyming+with+Reasons+%7C+%F0%9F%8C%B9;%E2%9A%99%EF%B8%8F%7C+Coding+with+Cogitation+%7C+%E2%9C%A8;%F0%9F%8E%AF%7C+Debugging+Own+Destiny+%7C+%E2%AD%90%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=35&duration=2500&pause=800&color=FF7300&center=true&vCenter=true&width=536&lines=%E2%9A%99%EF%B8%8F%7C+Rhyming+with+Reasons+%7C+%F0%9F%8E%A7;%F0%9F%92%BB%7C+Coding+with+Cogitation+%7C+%F0%9F%92%A1;%F0%9F%94%A7%7C+Debugging+Own+Destiny+%7C+%F0%9F%8E%AF" alt="Typing SVG" />
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abu Sayeem Rafi
@@ -65,7 +65,7 @@ Coding since 14, I’ve spent years experimenting, learning, and creating—from
 
   <h3>💻 GitHub Profile Stats</h3>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img alt="ASR's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ASR-jadespear&hide_border=true&background=222434&ring=36BCF7&stroke=36BCF7&currStreakNum=EBEBEB&fire=3F86F7&sideLabels=FFFFFF&dates=36BCF7&sideNums=6EEBC5&currStreakLabel=6EEBC5" height="192px"/>
+      <img alt="ASR's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ASR-jadespear&hide_border=true&background=000fff&ring=FE5800&stroke=FE5800&currStreakNum=FFFFFF&fire=808080&sideLabels=939393&dates=FE5800&sideNums=FF7300&currStreakLabel=FFFFFF" height="192px"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
