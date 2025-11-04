@@ -25,10 +25,13 @@ Coding since 14, I’ve spent years experimenting, learning, and creating—from
 ---
 
 ## ⚙️ Tech Stack
-<details>
-  <summary><h2>Languages</h2></summary>
+<table>
   
-</details>
+</table>
+<h2>📖 Languages</h2>
+  <img src="https://github.com/user-attachments/assets/85d670b3-9601-4005-8cbc-2b17ea0605e2" height=100/>
+  <img src="https://github.com/user-attachments/assets/69e1e029-8a8d-41be-858b-b50e4d4e3908" height=100/>
+
 
 ---
 
