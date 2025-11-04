@@ -1,11 +1,7 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Narrow&weight=600&size=50&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&color=FF7300&width=435&lines=ASR+Jadespear" alt="Typing SVG" />  </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FE5800&text=CSE%20Undergraduate%20|%20Game%20Developer%20|%20Math%20Enthusiast%20|%20Creative%20Engineer&reversal=false&fontColor=ffffff&fontSize=23.5&rotate=0&fontAlignY=18"/> </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=35&duration=2500&pause=800&color=FF7300&center=true&vCenter=true&width=536&lines=%E2%9A%99%EF%B8%8F%7C+Rhyming+with+Reasons+%7C+%F0%9F%8E%A7;%F0%9F%92%BB%7C+Coding+with+Cogitation+%7C+%F0%9F%92%A1;%F0%9F%94%A7%7C+Debugging+Own+Destiny+%7C+%F0%9F%8E%AF" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FE5800&text=CSE%20Undergraduate%20|%20Game%20Developer%20|%20Math%20Enthusiast%20|%20Creative%20Engineer&reversal=false&fontColor=ffffff&fontSize=23.5&rotate=0&fontAlignY=18"/> </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abu Sayeem Rafi
 
@@ -13,6 +9,10 @@ I'm a Computer Science student who loves building things that blend *logic, math
 Coding since 14, I’ve spent years experimenting, learning, and creating—from my first console calculator to a full physics-based elemental brick breaker game.
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Narrow&weight=700&size=35&duration=2500&pause=800&color=FF7300&center=true&vCenter=true&width=536&lines=%E2%9A%99%EF%B8%8F%7C+Rhyming+with+Reasons+%7C+%F0%9F%8E%A7;%F0%9F%92%BB%7C+Coding+with+Cogitation+%7C+%F0%9F%92%A1;%F0%9F%94%A7%7C+Debugging+Own+Destiny+%7C+%F0%9F%8E%AF" alt="Typing SVG" />
+</p>
+
 
 ## 🧠 About Me
 - 🧩 Strong background in **math & problem-solving** — National Math Olympiad 2nd Runner-Up, IYMC Silver Honour (Top 7% globally)
@@ -25,23 +25,26 @@ Coding since 14, I’ve spent years experimenting, learning, and creating—from
 ---
 
 ## ⚙️ Tech Stack
-<table>
+<table align="center">
   <tr>
-    <th><h3>Languages</h3></th>
-    <th><h3>Frameworks</h3></th>
-    <th><h3>Tools</h3></th>
+    <th><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&center=true&vCenter=true&repeat=false&width=250&lines=Language+Proficiency" alt="Typing SVG" /></th>
+    <th><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&center=true&vCenter=true&repeat=false&width=250&lines=Framework/Libraries" alt="Typing SVG" /></th>
+    <th><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&center=true&vCenter=true&repeat=false&width=250&lines=Tools+%26+Softwares" alt="Typing SVG" /></th>
   </tr>
   <tr>
-      <td>
+      <td align="center">
           <img src="https://github.com/user-attachments/assets/85d670b3-9601-4005-8cbc-2b17ea0605e2" height=50/>
           <img src="https://github.com/user-attachments/assets/69e1e029-8a8d-41be-858b-b50e4d4e3908" height=50/>
           <img src="https://github.com/user-attachments/assets/c8a75aea-7eeb-4248-a582-92f63493fd44" height=50/>
           <img src="https://github.com/user-attachments/assets/6a458f82-d136-42fd-aca3-9bb2c6b654d4" height=50/>
           <img src="https://github.com/user-attachments/assets/d0af37dc-3f84-4ba0-a60c-078496781d8f" height=50/>
       </td>
-      <td>
+      <td align="center">
+        <img width="45" height="45" alt="ray" src="https://github.com/user-attachments/assets/54fc58e3-a4b0-476c-b7b2-e3470c810d6f" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height=40/>
+        <img src="https://github.com/user-attachments/assets/cc943959-83df-4236-92a3-97ac1da6bafd" height=55/>
       </td>
-      <td>
+      <td align="center">
         <img src="https://github.com/user-attachments/assets/4229e092-de26-4509-a98f-6c87b8369305" height=50/>
         <img src="https://github.com/user-attachments/assets/31b7aad5-90e2-41e6-b1e0-d6d766e59e9a" height=50/> 
         <img src="https://github.com/user-attachments/assets/158a3a02-be0b-4dca-b0a5-4d7959084f8f" height=50/>
