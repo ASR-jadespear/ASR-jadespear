@@ -3,33 +3,43 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FE5800&text=CSE%20Undergraduate%20|%20Game%20Developer%20|%20Math%20Enthusiast%20|%20Creative%20Engineer&reversal=false&fontColor=ffffff&fontSize=23.5&rotate=0&fontAlignY=18"/> </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm ASR
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&vCenter=true&repeat=false&width=180&height=45&lines=Hi%2C+I'm+ASR" alt="Typing SVG" />
 
-An admirer of *Creative Cognition* and *Interactive Designs*. <br>
-Started coding at **14** — shaped by years of *Exploration* & *Self-learning* <br>
-
+### An admirer of *Creative Cognition* and *Interactive Designs*. <br>
 
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Narrow&weight=700&size=35&duration=2500&pause=800&color=FF7300&center=true&vCenter=true&width=536&lines=%E2%9A%99%EF%B8%8F%7C+Rhyming+with+Reasons+%7C+%F0%9F%8E%A7;%F0%9F%92%BB%7C+Coding+with+Cogitation+%7C+%F0%9F%92%A1;%F0%9F%94%A7%7C+Debugging+Own+Destiny+%7C+%F0%9F%8E%AF" alt="Typing SVG" />
 </p>
 
 
-## 🧠 About Me
-- 🧩 Strong background in **math & problem-solving** — National Math Olympiad 2nd Runner-Up, IYMC Silver Honour (Top 7% globally)
-- 💡 Passionate about **algorithm design, computer graphics, and game development**
-- 🛠️ Skilled in **C++, C, Java, and Raylib**
-- 🎮 Creator of *REACT-O-BALL* — an elemental brick breaker with dynamic reactions and realistic physics
-- 🎨 Side interest in **VFX, Photoshop, Illustrator, and motion design**
-- 🌱 Currently exploring **AI for Games** and **Procedural Generation**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FFFFDD&vCenter=true&repeat=false&width=150&lines=About+Me" alt="Typing SVG" />
+
+-  🔶 **Computer Science & Engineering** Student at [Islamic University of Technology](https://www.iutoic-dhaka.edu/) <br>
+-  🔶 **Math & Problem-solving** — National Math Olympiad *2nd Runner-Up*, **IYMC** Silver Honour *(Top 7% globally)* <br>
+-  🔶 **Passion** — Computer graphics, *VFX*, Algorithm design, Game development <br>
+-  🔶 Started coding at **14** — shaped by years of *Exploration* & *Self-learning* <br>
+-  🔶  A mind that wanders deep 🧩 Tenacious hands that chase ideas into form.<br>
+
+<br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FFFDE0&vCenter=true&repeat=false&width=180&height=45&lines=Hobbies" alt="Typing SVG" />
+
+- Drawing *Mandalas* and *Designs* in **Amaziograph**
+- Playing Games with *Immersive Storytelling* and *Stunning Graphics*
+- Listening to *Game OST* and Watching Movies
+
 
 ---
-
+<br>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/41fb4a69-5c20-4760-91e2-127c1e66df40" height=50 />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=40&duration=1&pause=1000&color=FFFDED&center=true&vCenter=true&repeat=false&width=180&lines=Tech+Stack" alt="Typing SVG" />
   <img src="https://github.com/user-attachments/assets/c6826a66-fd95-4213-9e4c-3b54b6bf147c" height=50/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=40&duration=1&pause=1000&color=FFFDED&center=true&vCenter=true&repeat=false&width=250&lines=Tech+Stack" alt="Typing SVG" />
-  <img src="https://github.com/user-attachments/assets/c6826a66-fd95-4213-9e4c-3b54b6bf147c" height=50/>
+
 </p>
 <table align="center">
   <tr>
@@ -64,9 +74,6 @@ Started coding at **14** — shaped by years of *Exploration* & *Self-learning* 
 </table>
 
 
-
-
----
 
 ### 🧩 Featured Projects
 🎮 [**REACT-O-BALL**](#)  
