@@ -1,5 +1,9 @@
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Narrow&weight=600&size=50&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&color=FF7300&width=435&lines=ASR+Jadespear" alt="Typing SVG" />  </p>
+<p align="center"> 
+  <img width="80" alt="Waves" src="https://github.com/user-attachments/assets/b2228c09-5b89-4e83-8af0-2fe8a5645a99"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Narrow&weight=600&size=50&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&color=FF7350&width=360&lines=ASR+Jadespear" alt="Typing SVG" />  
+<img width="80" alt="Waves" src="https://github.com/user-attachments/assets/97f823f5-fed5-459f-b20c-d918d305b3d3"/>
+</p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FE5800&text=CSE%20Undergraduate%20|%20Game%20Developer%20|%20Math%20Enthusiast%20|%20Creative%20Engineer&reversal=false&fontColor=ffffff&fontSize=23.5&rotate=0&fontAlignY=18"/> </p>
 
@@ -17,19 +21,32 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FFFFDD&vCenter=true&repeat=false&width=150&lines=About+Me" alt="Typing SVG" />
 
+<div align="center">
+  <img width="210" alt="Arlecchino" src="https://github.com/user-attachments/assets/f4d29848-7198-4ec2-9029-0c6936e64e1a" align="right" />
+
+</div>
+
 -  🔶 **Computer Science & Engineering** Student at [Islamic University of Technology](https://www.iutoic-dhaka.edu/) <br>
--  🔶 **Math & Problem-solving** — National Math Olympiad *2nd Runner-Up*, **IYMC** Silver Honour *(Top 7% globally)* <br>
+-  🔶 **Math & Problem-solving** — National Math Olympiad *2nd Runner-Up*, **IYMC** Silver Honour *(Top 7%)* <br>
 -  🔶 **Passion** — Computer graphics, *VFX*, Algorithm design, Game development <br>
 -  🔶 Started coding at **14** — shaped by years of *Exploration* & *Self-learning* <br>
 -  🔶  A mind that wanders deep 🧩 Tenacious hands that chase ideas into form.<br>
+
+
 
 <br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FFFDE0&vCenter=true&repeat=false&width=180&height=45&lines=Hobbies" alt="Typing SVG" />
 
+
+
 - Drawing *Mandalas* and *Designs* in **Amaziograph**
-- Playing Games with *Immersive Storytelling* and *Stunning Graphics*
-- Listening to *Game OST* and Watching Movies
+- Playing [Games](https://docs.google.com/spreadsheets/d/183Af43LhJBlnBsXzwbDjkwijN55oY83slkkmMJvIvpw/edit?usp=sharing) with *Immersive Storytelling* and Listening to *Game OST*
+- Photography and Watching *Thriller* Movies
+
+
+
+
 
 
 ---
@@ -73,9 +90,15 @@
 
 </table>
 
+<br>
+
+---
+
+<br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&vCenter=true&repeat=false&width=250&height=45&lines=Featured+Projects" alt="Typing SVG" />
 
 
-### 🧩 Featured Projects
 🎮 [**REACT-O-BALL**](#)  
 > Elemental Brick Breaker Game using Raylib & C  
 > Dynamic reactions between fire, water, electricity, and ice — custom physics, reflection system, and OOP architecture.
@@ -91,7 +114,10 @@
 
 ---
 
-### 🎯 Goals
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&vCenter=true&repeat=false&width=250&height=45&lines=Goals" alt="Typing SVG" />
+</p>
+
 > “I want to build systems that feel alive — games, simulations, and intelligent software that merge logic with art.”
 
 - 🧠 Dive into **Game AI**, **Graphics Programming**, and **Simulation Research**
@@ -100,10 +126,10 @@
 
 ---
 
-<details> 
+<details open> 
   <summary><h2>📊 Streak Stats</h2></summary>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h2>GitHub Profile Stats</h2>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img alt="ASR's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ASR-jadespear&hide_border=true&background=1F222E&ring=FE5800&stroke=FE5800&currStreakNum=FFFFFF&fire=808080&sideLabels=f0f0f0&dates=FE5800&sideNums=FF7300&currStreakLabel=FFFFFF" height="192px"/>
 </a>
@@ -112,18 +138,15 @@
         <img alt="ASR-jadespear's Github Stats" 
              src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ASR-jadespear&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=FF7300&icon_color=FF7300&border_color=FF7300" height="192px"/>
 </a>
-
-<h3>💻 Contributions</h3>
+</details>
+<details>
+<summary><h3>💻 Contributions</h3></summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img alt="ASR-jadespear's Activity Graph" 
              src="https://github-readme-activity-graph.vercel.app/graph/?username=ASR-jadespear&bg_color=1F222E&color=FF7300&line=FF7300&point=FFFFFF&hide_border=true" />
       </a>
 </details>
 <br>
-
-
-
-⭐ *"Math gives structure. Code gives life. Creativity gives meaning."*
 
 ---
 
@@ -146,6 +169,9 @@
   </a> 
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF7300,100:FF5100&height=60&section=header&text=%22I%20run%20code%20—%20not%20away%20from%20problems.%22&fontColor=ffffff&fontSize=25&animation=fadeIn&fontAlignY=50" />
+</p>
 
 
 
