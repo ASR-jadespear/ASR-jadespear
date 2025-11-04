@@ -3,10 +3,11 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FE5800&text=CSE%20Undergraduate%20|%20Game%20Developer%20|%20Math%20Enthusiast%20|%20Creative%20Engineer&reversal=false&fontColor=ffffff&fontSize=23.5&rotate=0&fontAlignY=18"/> </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abu Sayeem Rafi
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm ASR
 
-I'm a Computer Science student who loves building things that blend *logic, mathematics, and creativity.*  
-Coding since 14, I’ve spent years experimenting, learning, and creating—from my first console calculator to a full physics-based elemental brick breaker game.
+An admirer of *Creative Cognition* and *Interactive Designs*. <br>
+Started coding at **14** — shaped by years of *Exploration* & *Self-learning* <br>
+
 
 ---
 <p align="center">
@@ -24,7 +25,12 @@ Coding since 14, I’ve spent years experimenting, learning, and creating—from
 
 ---
 
-## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6826a66-fd95-4213-9e4c-3b54b6bf147c" height=50/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=40&duration=1&pause=1000&color=FFFDED&center=true&vCenter=true&repeat=false&width=250&lines=Tech+Stack" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/c6826a66-fd95-4213-9e4c-3b54b6bf147c" height=50/>
+</p>
 <table align="center">
   <tr>
     <th><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&center=true&vCenter=true&repeat=false&width=250&lines=Language+Proficiency" alt="Typing SVG" /></th>
@@ -114,29 +120,39 @@ Coding since 14, I’ve spent years experimenting, learning, and creating—from
 
 ---
 
-## 🌐 Feel free to reach out
-<p style="text-decoration: none;">
-  <a href= "https://www.facebook.com/abusayeem.rafi.1" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>  
-  
-  <a href= "https://www.instagram.com/asr_jadespear" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&vCenter=true&repeat=false&width=400&height=35&lines=Let's+Connect" alt="Typing SVG" />
+<p align="center"> 
+  <a href="https://www.facebook.com/abusayeem.rafi.1"> 
+    <img src="https://img.shields.io/badge/Facebook-1F222E?style=for-the-badge&logo=facebook&logoColor=FF7300" alt="Facebook"/> 
   </a> 
-  
-   <a href= "https://github.com/ASR-jadespear" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Github-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
-  <a href= "https://www.youtube.com/@asr_jadespear" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>    
+  <a href="https://www.instagram.com/asr_jadespear"> 
+    <img src="https://img.shields.io/badge/Instagram-1F222E?style=for-the-badge&logo=instagram&logoColor=FF7300" alt="Instagram"/> 
+  </a> 
+  <a href="https://github.com/ASR-jadespear"> 
+    <img src="https://img.shields.io/badge/GitHub-1F222E?style=for-the-badge&logo=github&logoColor=FF7300" alt="GitHub"/> 
+  </a> 
+  <a href="https://www.youtube.com/@asr_jadespear"> 
+    <img src="https://img.shields.io/badge/YouTube-1F222E?style=for-the-badge&logo=youtube&logoColor=FF7300" alt="YouTube"/> 
+  </a> 
+  <a href="https://www.abusayeemrafi@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-1F222E?style=for-the-badge&logo=gmail&logoColor=FF7300" alt="Gmail"/> 
+  </a> 
 </p>
+
+
+
 
 
 <!-- jokes -->
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width=50%/>
-  
+<details>
+  <summary>
+    <h3>Wanna hear a Joke??😏</h3>
+  </summary>
+  <p align="left">
+  <img src="https://readme-jokes.vercel.app/api?theme=gruvbox" alt="Jokes Card" width=50%/>
 </p>
+</details>
+
+
+
 
