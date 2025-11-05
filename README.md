@@ -189,7 +189,7 @@
 <!-- Quote -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0afb2237-5309-4924-9af6-cac3019580a5" />
+  <img src="https://github.com/user-attachments/assets/598fadc9-dc70-4618-90a9-02df838cb23a" />
 </p>
 
 
