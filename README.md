@@ -19,10 +19,10 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FFFFDD&vCenter=true&repeat=false&width=150&lines=About+Me" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7350&vCenter=true&repeat=false&width=150&lines=About+Me" alt="Typing SVG" />
 
 <div align="center">
-  <img width="210" alt="Arlecchino" src="https://github.com/user-attachments/assets/f4d29848-7198-4ec2-9029-0c6936e64e1a" align="right" />
+  <img width="225" alt="Arlecchino" src="https://github.com/user-attachments/assets/f4d29848-7198-4ec2-9029-0c6936e64e1a" align="right" />
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FFFDE0&vCenter=true&repeat=false&width=180&height=45&lines=Hobbies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7350&vCenter=true&repeat=false&width=180&height=45&lines=Hobbies" alt="Typing SVG" />
 
 
 
@@ -127,7 +127,7 @@
 ---
 
 <details open> 
-  <summary><h2>📊 Streak Stats</h2></summary>
+  <summary><h1>🧮<i> Streak</i> Stats</h1></summary>
 
   <h2>GitHub Profile Stats</h2>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -140,7 +140,7 @@
 </a>
 </details>
 <details>
-<summary><h3>💻 Contributions</h3></summary>
+<summary><h2>🎗️ Contributions</h2></summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img alt="ASR-jadespear's Activity Graph" 
              src="https://github-readme-activity-graph.vercel.app/graph/?username=ASR-jadespear&bg_color=1F222E&color=FF7300&line=FF7300&point=FFFFFF&hide_border=true" />
@@ -169,9 +169,12 @@
   </a> 
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF7300,100:FF5100&height=60&section=header&text=%22I%20run%20code%20—%20not%20away%20from%20problems.%22&fontColor=ffffff&fontSize=25&animation=fadeIn&fontAlignY=50" />
+  <img src="https://github.com/user-attachments/assets/01151624-8e76-464a-9d61-c71812f4582f" />
 </p>
+
 
 
 
