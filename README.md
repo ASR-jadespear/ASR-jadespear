@@ -110,7 +110,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&vCenter=true&repeat=false&width=250&height=45&lines=Featured+Projects" alt="Typing SVG" />
 
 
-🎮 [**REACT-O-BALL**](#)  
+🎮 [**REACT-O-BALL**](https://github.com/ASR-jadespear/Raylib-CPP-Starter-Template-for-VSCODE-main)  
 > Elemental Brick Breaker Game using Raylib & C  
 > Dynamic reactions between fire, water, electricity, and ice — custom physics, reflection system, and OOP architecture.
 
