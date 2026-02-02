@@ -70,7 +70,7 @@
 <table align="center">
   <tr>
     <th><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&center=true&vCenter=true&repeat=false&width=250&lines=Language+Proficiency" alt="Typing SVG" /></th>
-    <th><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&center=true&vCenter=true&repeat=false&width=250&lines=Framework/Libraries" alt="Typing SVG" /></th>
+    <th><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&center=true&vCenter=true&repeat=false&width=250&lines=Frameworks" alt="Typing SVG" /></th>
     <th><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=30&duration=1&pause=1000&color=FF7300&center=true&vCenter=true&repeat=false&width=250&lines=Tools+%26+Softwares" alt="Typing SVG" /></th>
   </tr>
   <tr>
